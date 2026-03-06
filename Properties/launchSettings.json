@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WinUI3_APNG (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_APNG (Unpackaged)": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
