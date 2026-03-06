@@ -5,6 +5,8 @@ in WinUI 3 / C# with a [SwapChainPanel](https://learn.microsoft.com/en-us/window
 
 APNG format parsing mainly done with help from AI (Copilot here)
 
+Most of APNG files in /Assets done with https://ezgif.com/gif-to-apng
+
 (tested on Windows 10 22H2, Windows App SDK 1.7.250401001)
 
 <img width="745" height="689" alt="image" src="https://github.com/user-attachments/assets/9773ccf1-9892-4c95-956b-04f382b78572" />
